@@ -1,0 +1,11 @@
+# Ignore Git folder
+.git/
+
+# Ignorej folder Visual Studio
+.vs/
+*.log
+*.tmp
+*.bak
+
+Thumbs.db
+.DS_Store
